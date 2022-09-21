@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "ice_ingot",
+  "ingredient": {
+    "item": "testmod:frozen_stone"
+  },
+  "result": "testmod:ice_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

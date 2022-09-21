@@ -1,0 +1,25 @@
+{
+  "item.testmod.ice_ingot": "Ice Ingot",
+  "item.testmod.transmutation_rod": "Transmutation Rod",
+  "item.testmod.ice_shard": "Ice Shard",
+  "item.testmod.frozen_apple": "Frozen Apple",
+
+  "item.testmod.ice_sword": "Ice Sword",
+  "item.testmod.ice_shovel": "Ice Shovel",
+  "item.testmod.ice_pickaxe": "Ice Pickaxe",
+  "item.testmod.ice_axe": "Ice Axe",
+  "item.testmod.ice_hoe": "Ice Hoe",
+
+  "item.testmod.frost_helmet": "Frost Helm",
+  "item.testmod.frost_chestplate": "Frost Chestplate",
+  "item.testmod.frost_leggins": "Frost Leggins",
+  "item.testmod.frost_boots": "Frost Boots",
+
+  "block.testmod.frozen_stone": "Frozen Stone",
+  "block.testmod.speed_block": "Speedy Block",
+
+  "itemGroup.testmod.frozen_age": "Frozen Age",
+
+  "item.testmod.transmutation_rod.tooltip.shift": "Right click a block to turn it into the block in your off hand.",
+  "item.testmod.transmutation_rod.tooltip": "Press §eSHIFT§e for more Information."
+}

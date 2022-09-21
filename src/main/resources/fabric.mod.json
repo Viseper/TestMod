@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "testmod",
+  "version": "${version}",
+
+  "name": "TestMod",
+  "description": "Meep",
+  "authors": ["Viseper"],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/TestMod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.viseper.testmod.TestMod"
+    ]
+  },
+
+          "mixins": [
+        "TestMod.mixins.json"
+      ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

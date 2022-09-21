@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YX",
+    "Y#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "testmod:ice_ingot"
+    },
+    "Y": {
+      "item": "testmod:ice_shard"
+    }
+  },
+  "result": {
+    "item": "testmod:ice_axe"
+  }
+}
